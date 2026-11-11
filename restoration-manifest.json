@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "name": "1 Million",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-2efb3254-da96-40ef-92b9-9780996e790c.png",
+    "promptSubject": "1 Million by Rabanne"
+  },
+  {
+    "id": 2,
+    "name": "1 Million Elixir",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-7f6abcce-35ef-4c74-90eb-397295f352ff.png",
+    "promptSubject": "1 Million Elixir by Rabanne"
+  },
+  {
+    "id": 3,
+    "name": "212",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-ab5b4d13-e89d-4cd4-b68d-0130e7e49115.png",
+    "promptSubject": "212 by Carolina Herrera"
+  },
+  {
+    "id": 4,
+    "name": "212 Sexy",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-cef85606-d44f-46a9-af1f-9b0539c9e505.png",
+    "promptSubject": "212 Sexy by Carolina Herrera"
+  },
+  {
+    "id": 5,
+    "name": "212 Heroes",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-b9984bdc-b6e5-4c45-9f5c-952173095f3b.png",
+    "promptSubject": "212 Heroes by Carolina Herrera"
+  },
+  {
+    "id": 6,
+    "name": "212 VIP",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-036509b5-065e-4cf4-943f-0055e2946615.png",
+    "promptSubject": "212 VIP by Carolina Herrera"
+  },
+  {
+    "id": 7,
+    "name": "212 VIP Black",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-f28a4065-a691-42ae-85a8-6c4e14464427.png",
+    "promptSubject": "212 VIP Black by Carolina Herrera"
+  },
+  {
+    "id": 8,
+    "name": "Acqua di Giò",
+    "brand": "Giorgio Armani",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-e1cf9f4d-1e3d-40e6-aa8f-ce73c328965d.png",
+    "promptSubject": "Acqua di Giò by Giorgio Armani"
+  },
+  {
+    "id": 9,
+    "name": "Bad Boy",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-e73ce69f-d33b-44ae-8993-54985d76bf30.png",
+    "promptSubject": "Bad Boy by Carolina Herrera"
+  },
+  {
+    "id": 10,
+    "name": "Azzaro",
+    "brand": "Azzaro",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-d04be4ae-3f3e-478b-ba5a-5356ca370ae8.png",
+    "promptSubject": "Azzaro by Azzaro"
+  },
+  {
+    "id": 11,
+    "name": "Black XS",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-b41aaf1b-2775-4c03-9abf-80ee1967e178.png",
+    "promptSubject": "Black XS by Rabanne"
+  },
+  {
+    "id": 12,
+    "name": "Black XS Aphrodisiaque",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-b981c437-6f5c-4390-84cf-f09de8f84a51.png",
+    "promptSubject": "Black XS Aphrodisiaque by Rabanne"
+  },
+  {
+    "id": 13,
+    "name": "CH Privé",
+    "brand": "Carolina Herrera",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-a669077a-3629-48f6-9eee-a4e7faecf332.png",
+    "promptSubject": "CH Privé by Carolina Herrera"
+  },
+  {
+    "id": 14,
+    "name": "Aventus",
+    "brand": "Creed",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-7e0ce571-1bbd-47ed-ac4d-7dbe187c484f.png",
+    "promptSubject": "Aventus by Creed"
+  },
+  {
+    "id": 15,
+    "name": "Dolce & Gabbana",
+    "brand": "Dolce & Gabbana",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-df505fad-109d-4997-ab0c-8f4b83e1e6d0.png",
+    "promptSubject": "Dolce & Gabbana by Dolce & Gabbana"
+  },
+  {
+    "id": 16,
+    "name": "Fahrenheit",
+    "brand": "Dior",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-8b169a19-bd36-48fb-a704-849e04593f39.png",
+    "promptSubject": "Fahrenheit by Dior"
+  },
+  {
+    "id": 17,
+    "name": "Gentleman",
+    "brand": "Givenchy",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-a3979bb9-d9e6-4b66-956e-371d0d1783bb.png",
+    "promptSubject": "Gentleman by Givenchy"
+  },
+  {
+    "id": 18,
+    "name": "Invictus",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-47795e28-1bd5-42e4-bd50-2eccf4470266.png",
+    "promptSubject": "Invictus by Rabanne"
+  },
+  {
+    "id": 19,
+    "name": "Invictus Intense",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-22581b41-f404-4740-bca3-48422a558852.png",
+    "promptSubject": "Invictus Intense by Rabanne"
+  },
+  {
+    "id": 20,
+    "name": "Kenzo pour Homme",
+    "brand": "Kenzo",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-8927fcf3-84d4-4627-b7c5-b2c09e875dad.png",
+    "promptSubject": "Kenzo pour Homme by Kenzo"
+  },
+  {
+    "id": 21,
+    "name": "Kenzo Homme Intense",
+    "brand": "Kenzo",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-ebf880ba-8b0b-4f20-bec3-6f9af8c686f6.png",
+    "promptSubject": "Kenzo Homme Intense by Kenzo"
+  },
+  {
+    "id": 22,
+    "name": "L’Eau d’Issey",
+    "brand": "Issey Miyake",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-76b29117-9f97-4229-8467-1c45bd08feb7.png",
+    "promptSubject": "L’Eau d’Issey by Issey Miyake"
+  },
+  {
+    "id": 23,
+    "name": "Le Male",
+    "brand": "Jean Paul Gaultier",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-89d92967-0fe4-41ce-b4a0-4b3410a7fe07.png",
+    "promptSubject": "Le Male by Jean Paul Gaultier"
+  },
+  {
+    "id": 24,
+    "name": "Light Blue",
+    "brand": "Dolce & Gabbana",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-b214c2be-7a65-41f0-bdea-f23b4513252e.png",
+    "promptSubject": "Light Blue by Dolce & Gabbana"
+  },
+  {
+    "id": 25,
+    "name": "Megamare",
+    "brand": "Orto Parisi",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-41712036-4d21-4997-ac44-14b81f280a19.png",
+    "promptSubject": "Megamare by Orto Parisi"
+  },
+  {
+    "id": 26,
+    "name": "Million Gold",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-f8591676-19b3-4748-b706-9d07844fc5da.png",
+    "promptSubject": "Million Gold by Rabanne"
+  },
+  {
+    "id": 27,
+    "name": "Ombré Leather",
+    "brand": "Tom Ford",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-ef7c33e8-3e5a-4f10-87d6-033eb4b79f57.png",
+    "promptSubject": "Ombré Leather by Tom Ford"
+  },
+  {
+    "id": 28,
+    "name": "Phantom",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-b37a1b11-9d40-478a-a51b-b1cf9e9711df.png",
+    "promptSubject": "Phantom by Rabanne"
+  },
+  {
+    "id": 29,
+    "name": "Polo Blue",
+    "brand": "Ralph Lauren",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-5c224325-46e2-482f-8f3c-72b03bef50c3.png",
+    "promptSubject": "Polo Blue by Ralph Lauren"
+  },
+  {
+    "id": 30,
+    "name": "Pure XS",
+    "brand": "Rabanne",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-c3807f10-8292-4283-82b7-4364c9f33a94.png",
+    "promptSubject": "Pure XS by Rabanne"
+  },
+  {
+    "id": 31,
+    "name": "Sauvage",
+    "brand": "Dior",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-f944be40-2b63-4a35-83ec-99a1b8b2ef1d.png",
+    "promptSubject": "Sauvage by Dior"
+  },
+  {
+    "id": 32,
+    "name": "Scandal",
+    "brand": "Jean Paul Gaultier",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-a60a2790-68a3-4f07-92d8-83521f9d614f.png",
+    "promptSubject": "Scandal by Jean Paul Gaultier"
+  },
+  {
+    "id": 33,
+    "name": "Stronger With You",
+    "brand": "Emporio Armani",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-e9686d47-8074-4d09-a42a-9d24b4934851.png",
+    "promptSubject": "Stronger With You by Emporio Armani"
+  },
+  {
+    "id": 34,
+    "name": "Terre d’Hermès",
+    "brand": "Hermès",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-626d0931-6fd8-43e8-9dd0-b2b4f8cc7500.png",
+    "promptSubject": "Terre d’Hermès by Hermès"
+  },
+  {
+    "id": 35,
+    "name": "Tommy",
+    "brand": "Tommy Hilfiger",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-f63d9d7a-3107-495f-a2ec-9344cce46aeb.png",
+    "promptSubject": "Tommy by Tommy Hilfiger"
+  },
+  {
+    "id": 36,
+    "name": "Ultra Male",
+    "brand": "Jean Paul Gaultier",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-9108549c-bd9e-4a27-a01a-c5ac851b934f.png",
+    "promptSubject": "Ultra Male by Jean Paul Gaultier"
+  },
+  {
+    "id": 37,
+    "name": "Very Irrésistible",
+    "brand": "Givenchy",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-52d34a1a-a95d-4b93-acdf-b7ccbf747ac9.png",
+    "promptSubject": "Very Irrésistible by Givenchy"
+  },
+  {
+    "id": 38,
+    "name": "Eros",
+    "brand": "Versace",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-f5d969d6-39eb-4cd6-b96c-b143453e0abe.png",
+    "promptSubject": "Eros by Versace"
+  },
+  {
+    "id": 39,
+    "name": "CK One",
+    "brand": "Calvin Klein",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-3ea78e51-385f-4aa0-a770-62fdc42e3cc4.png",
+    "promptSubject": "CK One by Calvin Klein"
+  },
+  {
+    "id": 40,
+    "name": "Oud Wood",
+    "brand": "Tom Ford",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-8548d312-2c19-4e90-ba2c-b31ec575a3cf.png",
+    "promptSubject": "Oud Wood by Tom Ford"
+  },
+  {
+    "id": 41,
+    "name": "Oud for Greatness",
+    "brand": "Initio",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-c7ff8a17-e169-4e50-ad4a-bea758d22ef7.png",
+    "promptSubject": "Oud for Greatness by Initio"
+  },
+  {
+    "id": 42,
+    "name": "Baccarat Rouge 540",
+    "brand": "Maison Francis Kurkdjian",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-5cdf80f9-e286-44f0-af40-c918bc06e45b.png",
+    "promptSubject": "Baccarat Rouge 540 by Maison Francis Kurkdjian"
+  },
+  {
+    "id": 43,
+    "name": "Arabians Tonka",
+    "brand": "Montale",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-25118e06-03b5-42bb-a7b8-276c8139a752.png",
+    "promptSubject": "Arabians Tonka by Montale"
+  },
+  {
+    "id": 44,
+    "name": "Erba Pura",
+    "brand": "Xerjoff",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-95f74300-d671-4436-ad99-8da84462ecc7.png",
+    "promptSubject": "Erba Pura by Xerjoff"
+  },
+  {
+    "id": 45,
+    "name": "Santal 33",
+    "brand": "Le Labo",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-5db064b9-e408-47f8-a793-4e83efc83423.png",
+    "promptSubject": "Santal 33 by Le Labo"
+  },
+  {
+    "id": 46,
+    "name": "Lost Cherry",
+    "brand": "Tom Ford",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-358f9b9d-49f4-4c57-831a-3cfc430c000b.png",
+    "promptSubject": "Lost Cherry by Tom Ford"
+  },
+  {
+    "id": 47,
+    "name": "Khamrah Qahwa",
+    "brand": "Lattafa",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-ef8072f4-e30e-4102-a018-d3fa6c0191e0.png",
+    "promptSubject": "Khamrah Qahwa by Lattafa"
+  },
+  {
+    "id": 48,
+    "name": "Teriaq",
+    "brand": "Lattafa",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-ac339007-e7f9-46fd-b873-31fbb6eb6184.png",
+    "promptSubject": "Teriaq by Lattafa"
+  },
+  {
+    "id": 49,
+    "name": "Costa Azzurra",
+    "brand": "Tom Ford",
+    "source": "C:\\Users\\danie\\.codex\\generated_images\\01a1c656-4693-7602-808a-9f17807c4980\\exec-90eb1b10-ea06-4bb1-a40e-f2f1dc2b44ca.png",
+    "promptSubject": "Costa Azzurra by Tom Ford"
+  }
+]

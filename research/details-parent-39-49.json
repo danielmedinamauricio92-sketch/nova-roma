@@ -1,0 +1,341 @@
+[
+  {
+    "id": 39,
+    "referenceName": "CK One",
+    "family": "Cítrica fresca",
+    "notes": {
+      "top": [
+        "Bergamota",
+        "Cardamomo",
+        "Piña",
+        "Papaya"
+      ],
+      "heart": [
+        "Jazmín",
+        "Violeta",
+        "Rosa",
+        "Nuez moscada"
+      ],
+      "base": [
+        "Almizcle",
+        "Ámbar"
+      ]
+    },
+    "description": "Una referencia fresca y limpia, con cítricos, frutas y flores suaves sobre un fondo de almizcle y ámbar.",
+    "occasions": [
+      "Día",
+      "Uso cotidiano",
+      "Días cálidos"
+    ],
+    "sources": [
+      {
+        "url": "https://www.calvinklein.us/en/women/fragrance/fragrance/ck-one/10740-000.html",
+        "title": "Calvin Klein · CK One"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 40,
+    "referenceName": "Oud Wood",
+    "family": "Amaderada especiada",
+    "notes": {
+      "key": [
+        "Palo de rosa",
+        "Cardamomo",
+        "Oud",
+        "Sándalo",
+        "Vetiver"
+      ]
+    },
+    "description": "Maderas con un carácter ahumado y especias suaves: una referencia cálida, sobria y envolvente.",
+    "occasions": [
+      "Noche",
+      "Ocasiones especiales",
+      "Días frescos"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+        "title": "Tom Ford Beauty · Oud Wood"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 41,
+    "referenceName": "Oud for Greatness",
+    "family": "Amaderada especiada",
+    "notes": {
+      "key": [
+        "Oud",
+        "Lavanda",
+        "Azafrán",
+        "Pachulí",
+        "Almizcle",
+        "Nuez moscada"
+      ]
+    },
+    "description": "El oud ocupa el centro de esta referencia, acompañado por lavanda, especias y un fondo de pachulí y almizcle.",
+    "occasions": [
+      "Noche",
+      "Ocasiones especiales",
+      "Días frescos"
+    ],
+    "sources": [
+      {
+        "url": "https://uk.initioparfums.com/products/oud-for-greatness",
+        "title": "Initio · Oud for Greatness"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 42,
+    "referenceName": "Baccarat Rouge 540 Eau de parfum",
+    "family": "Amaderada, ambarada y floral",
+    "notes": {
+      "key": [
+        "Jazmín",
+        "Azafrán",
+        "Acorde de ámbargris",
+        "Maderas secas",
+        "Facetas gourmand"
+      ]
+    },
+    "description": "Una referencia luminosa y envolvente, donde las flores y el azafrán se encuentran con acordes ambarados y maderas secas. Una inspiración para quienes disfrutan de aromas cálidos con un carácter sofisticado.",
+    "occasions": [
+      "Noche",
+      "Ocasiones especiales",
+      "Días frescos"
+    ],
+    "sources": [
+      {
+        "url": "https://www.franciskurkdjian.com/int-en/p/baccarat-rouge-540-eau-de-parfum-RA12232.html",
+        "title": "Maison Francis Kurkdjian · Baccarat Rouge 540"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 43,
+    "referenceName": "Arabians Tonka",
+    "family": "Amaderada ambarada",
+    "notes": {
+      "key": [
+        "Bergamota",
+        "Rosa",
+        "Haba tonka",
+        "Oud",
+        "Ámbar",
+        "Almizcle"
+      ]
+    },
+    "description": "Una referencia cálida que combina flores, matices especiados y la dulzura de la tonka con maderas y ámbar.",
+    "occasions": [
+      "Noche",
+      "Eventos",
+      "Días frescos"
+    ],
+    "sources": [
+      {
+        "url": "https://montaleparfums.us/collections/oud-best-sellers/products/arabians-tonka",
+        "title": "Montale · Arabians Tonka"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 44,
+    "referenceName": "Erba Pura",
+    "family": "Frutal ambarada",
+    "notes": {
+      "top": [
+        "Limón",
+        "Bergamota de Calabria",
+        "Naranja siciliana"
+      ],
+      "heart": [
+        "Frutas mediterráneas"
+      ],
+      "base": [
+        "Ámbar",
+        "Vainilla de Madagascar",
+        "Almizcle blanco"
+      ]
+    },
+    "description": "Cítricos luminosos y un corazón frutal se apoyan en vainilla, almizcle blanco y ámbar. Una referencia alegre y envolvente.",
+    "occasions": [
+      "Día",
+      "Salidas",
+      "Días templados"
+    ],
+    "sources": [
+      {
+        "url": "https://www.xerjoff.com/en-us/products/erba-pura-eau-de-parfum",
+        "title": "Xerjoff · Erba Pura"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 45,
+    "referenceName": "Santal 33",
+    "family": "Amaderada aromática",
+    "notes": {
+      "key": [
+        "Cardamomo",
+        "Iris",
+        "Violeta",
+        "Sándalo",
+        "Cedro",
+        "Acordes de cuero y almizcle"
+      ]
+    },
+    "description": "Una referencia de maderas secas y especias, con matices florales y un carácter ahumado, almizclado y confortable.",
+    "occasions": [
+      "Día",
+      "Noche",
+      "Uso cotidiano"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com/santal-33-147.html",
+        "title": "Le Labo · Santal 33"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 46,
+    "referenceName": "Lost Cherry",
+    "family": "Frutal ambarada",
+    "notes": {
+      "key": [
+        "Cereza negra",
+        "Almendra amarga",
+        "Acorde de guinda",
+        "Rosa",
+        "Bálsamo del Perú",
+        "Haba tonka tostada"
+      ]
+    },
+    "description": "El contraste entre cereza dulce, almendra amarga y matices balsámicos define esta referencia de carácter goloso.",
+    "occasions": [
+      "Noche",
+      "Citas",
+      "Ocasiones especiales"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+        "title": "Tom Ford Beauty · Lost Cherry"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 47,
+    "referenceName": "Khamrah Qahwa",
+    "family": "Especiada gourmand",
+    "notes": {
+      "top": [
+        "Jengibre",
+        "Canela",
+        "Cardamomo"
+      ],
+      "heart": [
+        "Praliné",
+        "Frutas confitadas",
+        "Flores blancas"
+      ],
+      "base": [
+        "Café arábica",
+        "Haba tonka",
+        "Almizcle",
+        "Benjuí",
+        "Vainilla"
+      ]
+    },
+    "description": "Especias cálidas, dulzor de praliné y café sobre un fondo cremoso. Una referencia reconfortante y de perfil gourmand.",
+    "occasions": [
+      "Noche",
+      "Días frescos",
+      "Salidas"
+    ],
+    "sources": [
+      {
+        "url": "https://lattafa.com/product/khamrah-qahwa/",
+        "title": "Lattafa · Khamrah Qahwa"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 48,
+    "referenceName": "Teriaq",
+    "family": "Gourmand con matices de cuero",
+    "notes": {
+      "top": [
+        "Pimienta rosa",
+        "Caramelo",
+        "Almendra amarga",
+        "Damasco"
+      ],
+      "heart": [
+        "Flores blancas",
+        "Rosa",
+        "Ruibarbo",
+        "Miel"
+      ],
+      "base": [
+        "Vainilla",
+        "Almizcle",
+        "Vetiver",
+        "Ládano",
+        "Cuero"
+      ]
+    },
+    "description": "Una referencia de contrastes: fruta, miel y caramelo se combinan con especias, flores y un fondo con matices de cuero.",
+    "occasions": [
+      "Noche",
+      "Salidas",
+      "Días frescos"
+    ],
+    "sources": [
+      {
+        "url": "https://lattafa.com/product/teriaq/",
+        "title": "Lattafa · Teriaq"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": 49,
+    "referenceName": "Costa Azzurra Eau de parfum",
+    "family": "Aromática cítrica amaderada",
+    "notes": {
+      "key": [
+        "Limón",
+        "Ciprés",
+        "Madera de roble",
+        "Acorde de madera flotante",
+        "Jara",
+        "Ámbar salado"
+      ]
+    },
+    "description": "Cítricos, aire marino y maderas evocan un paisaje costero. Una referencia fresca con una base aromática y amaderada.",
+    "occasions": [
+      "Día",
+      "Escapadas",
+      "Días cálidos"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/products/costa-azzurra-eau-de-parfum",
+        "title": "Tom Ford Beauty · Costa Azzurra"
+      }
+    ],
+    "status": "verified"
+  }
+]
